@@ -58,7 +58,7 @@ Each component of the processor has been implemented **separately** using **Veri
 ## **Processor Design**  
 
 <div align="center">
-<img src="Chromosome.png" alt="Gantt Chart" width="400"/>
+<img src="Diagram.png" alt="diagram" width="400"/>
 </div>
 
 
