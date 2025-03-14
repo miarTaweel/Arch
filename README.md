@@ -58,7 +58,7 @@ Each component of the processor has been implemented **separately** using **Veri
 ## **Processor Design**  
 
 <div align="center">
-<img src="Diagram.png" alt="diagram" width="400"/>
+<img src="Diagram.pdf" alt="diagram" width="400"/>
 </div>
 
 
