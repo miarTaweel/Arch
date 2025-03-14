@@ -12,7 +12,8 @@ This project focuses on designing and implementing a **16-bit multicycle RISC pr
 ✔ **Three Instruction Types Supported:**  
    - **R-Type (Register-Register Instructions)**  
    - **I-Type (Immediate Instructions)**  
-   - **J-Type (Jump Instructions)**  
+   - **J-Type (Jump Instructions)**
+     
 ✔ **Performance Registers** – Includes additional registers to monitor execution metrics.  
 
 
