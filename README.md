@@ -50,10 +50,16 @@ The processor is capable of executing a variety of instructions:
 
 
 ## **Implementation Details**  
-
+Each component of the processor has been implemented **separately** using **Verilog**:
 - **Datapath:** Designed to handle arithmetic, logical, memory, and control operations.  
 - **Control Unit:** Generates control signals for instruction execution over multiple cycles.  
 - **Simulation:** The processor is tested using **testbenches** to validate execution correctness.  
+
+## **Processor Design**  
+
+<div align="center">
+<img src="Chromosome.png" alt="Gantt Chart" width="400"/>
+</div>
 
 
 ## Contact
